@@ -5,180 +5,93 @@
         "name": "HEAD SET",
         "description": "Head Phone & Head phone Mixer  - Studio",
         "assetCode": "CGT/B2/CO/HS/0012",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "789",
-        "vendor": "Rossini Music Centre",
-        "pDate": "2015-04-06T18:30:00.000+0000",
-        "cost": 18000
     },
     {
         "id": 14,
         "rfidTag": null,
         "name": "HEAD SET",
         "description": "Head Phone & Head phone Mixer  - Studio",
-        "assetCode": "CGT/B2/CO/HS/0015",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "789",
-        "vendor": "Rossini Music Centre",
-        "pDate": "2015-04-06T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/B2/CO/HS/0015"
     },
     {
         "id": 15,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory Module (KT-KTD-XPS730BS/4G)",
-        "assetCode": "CGT/NW/CO/OTP/0044",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "790",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
-    },
+        "assetCode": "CGT/NW/CO/OTP/0044"
     {
         "id": 16,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory Module (KT-KTD-XPS730BS/4G)",
-        "assetCode": "CGT/NW/CO/OTP/0045",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "791",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0045"
     },
     {
         "id": 17,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory (KT-KTD-XPS730CS/4GB)",
-        "assetCode": "CGT/NW/CO/OTP/0047",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "793",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0047"
     },
     {
         "id": 18,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory (KT-KTD-XPS730CS/4GB)",
-        "assetCode": "CGT/NW/CO/OTP/0048",
-        "fixed": false,
-        "pvNo": "N-1706",
-        "invoiceNo": "794",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0048"
     },
     {
         "id": 19,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory (KT-KTH9600CS/4GB)",
-        "assetCode": "CGT/NW/CO/OTP/0049",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "795",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0049"
     },
     {
         "id": 20,
         "rfidTag": null,
         "name": "HEAD SET",
         "description": "Head Phone - A4 Tech HS-5P",
-        "assetCode": "CGT/NW/CO/HS/0001",
-        "fixed": false,
-        "pvNo": "N-1706",
-        "invoiceNo": "801",
-        "vendor": "Incotech Lanka (Pvt)Ltd",
-        "pDate": "2015-07-02T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/HS/0001"
     },
     {
         "id": 21,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory Module (KT-KTD-XPS730BS/4G)",
-        "assetCode": "CGT/NW/CO/OTP/0046",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "792",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0046"
     },
     {
         "id": 22,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory (KT-KTH9600CS/4GB)",
-        "assetCode": "CGT/NW/CO/OTP/0050",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "796",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
-    },
+        "assetCode": "CGT/NW/CO/OTP/0050"
     {
         "id": 23,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "8GB Memory (KT-KTH9600C/8G)",
-        "assetCode": "CGT/NW/CO/OTP/0051",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "797",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0051"
     },
     {
         "id": 24,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "8GB Memory (KT-KTH9600C/8G)",
-        "assetCode": "CGT/NW/CO/OTP/0052",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "798",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
-    },
+        "assetCode": "CGT/NW/CO/OTP/0052"
     {
         "id": 25,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "8GB Memory (KT-KTD-XPS730C/8G)",
-        "assetCode": "CGT/NW/CO/OTP/0053",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "799",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0053"
     },
     {
         "id": 26,
         "rfidTag": null,
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "8GB Memory (KT-KTD-XPS730C/8G)",
-        "assetCode": "CGT/NW/CO/OTP/0054",
-        "fixed": true,
-        "pvNo": "N-1706",
-        "invoiceNo": "800",
-        "vendor": "Memory Technologies",
-        "pDate": "2015-06-28T18:30:00.000+0000",
-        "cost": 20000
+        "assetCode": "CGT/NW/CO/OTP/0054"
     }
 ]
