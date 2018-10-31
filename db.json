@@ -19,6 +19,7 @@
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory Module (KT-KTD-XPS730BS/4G)",
         "assetCode": "CGT/NW/CO/OTP/0044"
+    },
     {
         "id": 16,
         "rfidTag": null,
@@ -67,6 +68,7 @@
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "4GB Memory (KT-KTH9600CS/4GB)",
         "assetCode": "CGT/NW/CO/OTP/0050"
+    },
     {
         "id": 23,
         "rfidTag": null,
@@ -80,6 +82,7 @@
         "name": "OTHER COMPUTER PARTS & EUIPMENT",
         "description": "8GB Memory (KT-KTH9600C/8G)",
         "assetCode": "CGT/NW/CO/OTP/0052"
+    },
     {
         "id": 25,
         "rfidTag": null,
